@@ -1,29 +1,29 @@
 # Vibee
 
-## Web pro zákazníky. Administrace pro vaše podnikání.
+## A website for your customers. An admin for your business.
 
-Popište v ChatGPT nebo Claude, čím se živíte a co potřebujete vyřídit. S Vibee vytvoříte web s online rezervacemi či objednávkami a administraci, ve které je zpracujete. Další úpravy zadáte stejným způsobem: rozhovorem s asistentem.
+Tell ChatGPT or Claude what your business does and what you need to manage. With Vibee, you can build a website that takes bookings or orders, plus an admin to handle them. Make changes the same way: by talking to your assistant.
 
-**[Prohlédnout Vibee](https://vibee.one) · [Vyzkoušet ukázky](https://vibee.one/ukazky)**
+**[Explore Vibee](https://vibee.one/en) · [Try the examples](https://vibee.one/en/examples)**
 
-### Od objednávky po vyřízení
+### From the first booking to the finished job
 
-Kadeřnictví může nabídnout zákazníkům výběr služby a termínu. Farma přijímat objednávky s osobním odběrem. Servis sledovat zakázky od přijetí po předání.
+A hair salon can let customers choose a service and book a time. A farm shop can take orders for pickup. A repair service can track jobs from intake to handover.
 
-Zákazníci používají běžný web. Vy spravujete rezervace, objednávky a zákazníky z počítače i mobilu. AI asistenta potřebujete při tvorbě a úpravách.
+Customers use an ordinary website. You manage bookings, orders and customers on your computer or phone. You only need the AI assistant when building or changing the app.
 
-### Jak začít
+### Build your first app
 
-1. [Propojte ChatGPT nebo Claude s Vibee](https://vibee.one/docs/connect).
-2. Popište svůj podnik, nabídku a způsob objednávání.
-3. Projděte si první verzi, vyzkoušejte objednávku a řekněte asistentovi, co upravit.
-4. Zveřejněte web a začněte přijímat zákazníky.
+1. [Connect ChatGPT or Claude to Vibee](https://vibee.one/en/docs/connect).
+2. Describe your business, what you offer and how customers book or order.
+3. Try the first version, place a test order and tell your assistant what to change.
+4. Publish your website and start taking bookings or orders.
 
-Vibee zajišťuje hosting a provoz aplikací. Změny si můžete prohlédnout před zveřejněním a vrátit se k předchozí verzi. Data jsou uložená v EU a můžete si je stáhnout.
+Vibee hosts and runs your apps. Preview changes before publishing and restore an earlier version when needed. Your data is stored in the EU, and you can download it at any time.
 
-### Odkazy
+### Useful links
 
-- [Otevřít aplikaci](https://vibee.one/app)
-- [Návody](https://vibee.one/docs)
-- [Ceník](https://vibee.one/#pricing)
-- [Podpora](https://vibee.one/support)
+- [Open the app](https://vibee.one/app)
+- [Read the guides](https://vibee.one/en/docs)
+- [See pricing](https://vibee.one/en#pricing)
+- [Get support](https://vibee.one/en/support)
